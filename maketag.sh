@@ -1,6 +1,6 @@
 #! /bin/bash
 
-mstr_brnch=prod
+mstr_brnch=master
 
 echo "tag name: "
 read tagName
